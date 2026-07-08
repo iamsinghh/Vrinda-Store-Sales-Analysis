@@ -4,12 +4,11 @@ Vrinda Store Sales Analysis
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-0F172A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interactive%20Dashboard-1E293B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Business%20Analytics-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pivot%20Analysis-1F2937?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-374151?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20Insights-4B5563?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
-
 
 <p align="center">
 Built using <b>Microsoft Excel</b> to analyze <b>Vrinda Store's 2022 sales performance</b> and transform raw transactional data into <b>actionable business insights</b>.
@@ -17,7 +16,7 @@ Built using <b>Microsoft Excel</b> to analyze <b>Vrinda Store's 2022 sales perfo
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 <p align="center">
 <img src="Sales_Dashboard.png" width="100%">
@@ -25,7 +24,7 @@ Built using <b>Microsoft Excel</b> to analyze <b>Vrinda Store's 2022 sales perfo
 
 ---
 
-# 📌 Project Summary
+## 📌 Project Summary
 
 Vrinda Store is an Indian fashion retailer selling products across multiple e-commerce platforms including **Amazon, Flipkart, Myntra, Ajio, Meesho, and Nalli**.
 
@@ -33,7 +32,7 @@ This project analyzes **one year of sales data** to uncover **customer purchasin
 
 ---
 
-# 🎯 Business Requirements
+## 🎯 Business Requirements
 
 The dashboard was developed to answer the following business questions:
 
@@ -47,7 +46,7 @@ The dashboard was developed to answer the following business questions:
 
 ---
 
-# 📈 Key Business Insights
+## 📈 Key Business Insights
 
 | Business Area | Insight |
 |---------------|---------|
@@ -60,7 +59,7 @@ The dashboard was developed to answer the following business questions:
 
 ---
 
-# 🖥 Dashboard Components
+## 🖥 Dashboard Components
 
 - Interactive Dashboard
 - Monthly Sales & Orders Analysis
@@ -73,7 +72,7 @@ The dashboard was developed to answer the following business questions:
 
 ---
 
-# ⚙️ Project Workflow
+## ⚙️ Project Workflow
 
 ```text
 Raw Sales Data
@@ -96,13 +95,13 @@ Business Insights & Recommendations
 
 ---
 
-# 💼 Business Recommendation
+## 💼 Business Recommendation
 
 Based on the analysis, **Vrinda Store should focus its marketing efforts on adult women aged 30–49 living in Maharashtra, Karnataka, and Uttar Pradesh through high-performing sales channels such as Amazon and Myntra.** This customer segment contributes the largest share of overall sales and represents the greatest opportunity for future revenue growth.
 
 ---
 
-# 🛠 Tools & Skills
+## 🛠 Tools & Skills
 
 | Tool / Skill | Purpose |
 |--------------|---------|
@@ -116,10 +115,9 @@ Based on the analysis, **Vrinda Store should focus its marketing efforts on adul
 
 ---
 
-# 👤 Author
+## 👤 Author
 
-## **Aman Singh**
-
+### **Aman Singh**
 
 Data Analyst | Excel | SQL | Power BI | Python
 
